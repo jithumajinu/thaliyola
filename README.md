@@ -6,8 +6,13 @@
 Go is an open source programming language developed by a team at Google.<br>
 
 # Step 1 
-**Local:**
   `sudo apt-get update`
+  
+* MySQL container:
+     * hostname: mysqldb
+     * Ports : 3306:3306 (<host_port>:<container_port>)
+     * Username/Password: root/admin  
+  
 
 # Step 2 <br>
 download the Go language binary archive file <br>
