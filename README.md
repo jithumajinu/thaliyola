@@ -1,4 +1,4 @@
-# thaliyola
+# Thaliyola
 
 ## URL : https://thaliyola.herokuapp.com/
 
@@ -6,7 +6,7 @@
 Go is an open source programming language developed by a team at Google.<br>
 
 # Step 1 <br>
-  'sudo apt-get update <br>'
+  `sudo apt-get update`
 
 # Step 2 <br>
 download the Go language binary archive file <br>
