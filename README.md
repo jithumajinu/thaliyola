@@ -5,14 +5,8 @@
 # How To Install Go 1.12 on Ubuntu and host in heroku <br>
 Go is an open source programming language developed by a team at Google.<br>
 
-# Step 1 
+* Step 1 
   `sudo apt-get update`
-  
-* MySQL container:
-     * hostname: mysqldb
-     * Ports : 3306:3306 (<host_port>:<container_port>)
-     * Username/Password: root/admin  
-  
 
 # Step 2 <br>
 download the Go language binary archive file <br>
