@@ -5,14 +5,14 @@
 # How To Install Go 1.12 on Ubuntu and host in heroku <br>
 Go is an open source programming language developed by a team at Google.<br>
 
-* Step 1 
+* Step 1 <br>
   `sudo apt-get update`
 
-# Step 2 <br>
+* Step 2 <br>
 download the Go language binary archive file <br>
  `wget https://dl.google.com/go/go1.12.7.linux-amd64.tar.gz` <br>
 
-# Step 3 <br>
+* Step 3 <br>
 extract the downloaded archive and install it <br>
    `sudo tar -xvf go1.12.7.linux-amd64.tar.gz` <br>
    `sudo mv go /usr/local `  <br>
