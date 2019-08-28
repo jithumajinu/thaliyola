@@ -49,6 +49,12 @@ https://github.com/heroku/heroku-buildpack-go  <br>
 https://devcenter.heroku.com/articles/getting-started-with-go <br>
 
 
+# heroku log
+
+jithu@jithu-PC-LL750CS6R:~/developer$ heroku logs --tail --app thaliyola
+
+
+
 
 
 
