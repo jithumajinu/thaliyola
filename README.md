@@ -2,7 +2,7 @@
 
 **URL : https://thaliyola.herokuapp.com/**
 
-# How To Install Go 1.12 on Ubuntu and host in heroku <br>
+**How To Install Go 1.12 on Ubuntu and host in heroku** <br>
 Go is an open source programming language developed by a team at Google.<br>
 
 * Step 1 <br>
