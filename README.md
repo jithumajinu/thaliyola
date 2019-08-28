@@ -17,7 +17,7 @@ extract the downloaded archive and install it <br>
    `sudo tar -xvf go1.12.7.linux-amd64.tar.gz` <br>
    `sudo mv go /usr/local `  <br>
    
-# Step 4 : Setup Go Environment <br>
+* Step 4 : Setup Go Environment <br>
 Now you need to setup Go language environment variables for your project.<br>
 Commonly you need to set 3 environment variables as GOROOT, GOPATH and PATH.<br>
 
@@ -35,19 +35,20 @@ Now set the PATH variable to access go binary system wide.<br>
    
 All the above environment will be set for your current session only. To make it permanent add above commands in ~/.profile file.<br>
 
-# Step 5 – Verify Installation<br>
+* Step 5 – Verify Installation<br>
+
 At this step, you have successfully installed and configured go language on your system. First, use the following command to check the Go version.<br>
 
    `go version `<br>
    
    go version go1.12.7 linux/amd64<br>
 Now also verify all configured environment variables using following command.<br>
-#----------------------------------------------------------------------------------------------------
+* ----------------------------------------------------------------------------------------------------
 Link : heroku.com  and create account. <br>
    https://github.com/heroku/heroku-buildpack-go  <br>
    https://devcenter.heroku.com/articles/getting-started-with-go <br>
 
-# heroku log
+* heroku log
 
  `jithu@jithu-PC-LL750CS6R:~/developer$ heroku logs --tail --app thaliyola`
 
